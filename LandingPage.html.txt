@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Skeleton: Responsive CSS Boilerplate</title>
+</head>
+<body>
+<div class= "section hero">
+  <div class= "container">
+   <div class= "row">
+    <div class= "one-half column">
+             <h4 class="hero-heading">Stop coding non-responsice sites. Let users view sites from anywhere.</h4>
+             <a class="button button primary" href="http://getskeleton.com"></a>
+          </div>
+    <div class= "one-half column">
+    <img class="photo" src="D:\Photo Website\Services\Corporate_Sparkling_Van.png">
+    <img class="photo" src="D:\Photo Website\Services\Inauguration_Sparkling_Van.png">
+          </div>  
+     : : after
+    </div>
+   : :after
+    </div>
+ </div>
+<div class="section values">
+    <div class="container">
+       <div class="row">
+          <div class="one-third column value">
+             <h2 class="value-multiplier">67%</h2>
+             <h5 class="value-heading">Purchase Increase</h5>
+             <p class="value description">Percentage of users more likely to purchase on mobile friendly site. </p>
+             </div>
+           <div class="one-third column value">
+             <h2 class="value-multiplier">90%</h2>
+             <h5 class="value-heading">Multi-device Users</h5>
+             <p class="value description">Most of the world accesses the internet on multiple devices. </p>
+             </div>
+            <div class="one-third column value">
+             <h2 class="value-multiplier">66%</h2>
+             <h5 class="value-heading">Sad Users</h5>
+             <p class="value description">Percentage of users that are frustrated with page load times. </p>
+             </div>
+       : : after
+     </div>
+   : :after
+    </div>
+ </div>
+<div class="section get-help">
+   <div class="container">
+     <h3 class="section-heading">Need help getting started?</h3>
+     <p class="description">
+      "Skeleton is an amazingly easy place to start with responsive development. If you want to learn more, just visit the documentation!"
+     </p>
+    <a class="button button-primary" href="http:/getskeleton.com">View Skeleton Docs</a>
+      : :after
+    </div>
+   </div>
+<div class="section categories">
+   <div class="container">
+     <h3 class="section-heading">Responsive Images</h3>
+     <p class="description">
+      "Skeleton is an amazingly easy place to start with responsive development. If you want to learn more, just visit the documentation!"
+     </p>
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
