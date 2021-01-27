@@ -3,11 +3,8 @@ h1 {
 	}
 
 
-.jumbotron {
-        background-color: #246EB9;
-        color: #ffffff;
-    }
+.margin-small {
+	margin-top:25px;
+	margin-bottom: 25px;
 
-    .bg-primary {
-        background-color: #246EB9 !important;
-    }
+{
