@@ -4,14 +4,16 @@ h1 {
 
 .margin-small {
 	margin-top:30px;
+	margin-left:15PX;
+	margin-right: 15px;
 	margin-bottom: 30px;
 }
 
 
 .img-logo {
   margin-top: 150px;
-  margin-right: 0px;
-  margin-left: 0px;
+  margin-right: auto;
+  margin-left: auto;
   margin-bottom: 50px;
   padding-right: 100px;
   padding-left: 100px;
@@ -20,8 +22,7 @@ h1 {
 
 .colors {
       background-color: #555;
-
-
+      
 }
 
 .bg-white-logo {
@@ -31,7 +32,7 @@ h1 {
 }
 
 .bg-dark-logo {
-      background-color: #555;
+    
       color:#f3f3f3;
 
 }
