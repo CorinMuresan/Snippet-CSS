@@ -11,9 +11,16 @@ h1 {
 
 .img-logo {
   margin-top: 250px;
+  margin-right: 0px;
+  margin-left: 0px;
   margin-bottom: 50px;
-  background-color: #f3f3f3;
   padding-right: 100px;
   padding-left: 100px;
+
+}
+
+.colors {
+      background-color: #555;
+
 
 }
