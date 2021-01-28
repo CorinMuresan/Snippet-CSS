@@ -1,5 +1,5 @@
 h1 {
-	color:#f3f3f3;
+	color:#333333;
 	}
 
 .margin-small {
@@ -9,8 +9,9 @@ h1 {
 
 
 .img-logo {
-  margin:auto;
-  padding:auto;
+  
+  padding-top:30px;
+  
 
 }
 
